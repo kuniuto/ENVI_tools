@@ -37,4 +37,20 @@ In general, inteinsities of leaf areas in color images generated from reflectanc
 This is because leaf reflectance is low.
 This function makes plants brighter by maximizing intensity in RoI.
 
+1. **Installing necesary dependencies**
+   - Install necessary dependencies by referring to `envi_tool.py` and `envi_tool_demo_color_enhanncement.py`.
+     
+2. **Running code**
+   - Specify `envi_fname` in `envi_tool_demo_color_enhancement.py`, then run the following command:
+```bash
+python envi_tool_demo_color_enhancement.py
+```
 
+3. **Selecting RoI**
+   - Select RoI. Type `space` key and, then, type `Enter`.
+
+4. **Display of original and enhance color images**
+   - Original and enhance color images show up.
+
+**Video of operation**:
+![Color enhancement](asset/color_enhancement_video.mp4)
