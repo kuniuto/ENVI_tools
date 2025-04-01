@@ -30,4 +30,5 @@ python envi_tool_demo_sample_rois.py
 **Averaged reflectances of RoIs**:
 ![RoI selection](asset/RoIs_reflectance.png)
 
-##Color enhancement. (`color_enhancement` function)
+
+## Color enhancement. (`color_enhancement` function)
