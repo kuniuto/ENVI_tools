@@ -8,6 +8,7 @@ Currently, the following tools (functions) are available.
 - Sampling reflectance of RoIs.
 - Color enhancement.
 
+---
 ## Sampling reflectance of RoIs. (`sample_rois` function)
 1. **Installing necesary dependencies**
    - Install necessary dependencies by referring to `envi_tool.py` and `envi_tool_demo_sample_rois.py`.
@@ -30,5 +31,5 @@ python envi_tool_demo_sample_rois.py
 **Averaged reflectances of RoIs**:
 ![RoI selection](asset/RoIs_reflectance.png)
 
-
+---
 ## Color enhancement. (`color_enhancement` function)
