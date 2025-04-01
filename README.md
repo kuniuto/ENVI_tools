@@ -33,3 +33,8 @@ python envi_tool_demo_sample_rois.py
 
 ---
 ## Color enhancement. (`color_enhancement` function)
+In general, inteinsities of leaf areas in color images generated from reflectance hyperspecral data is low.
+This is because leaf reflectance is low.
+This function makes plants brighter by maximizing intensity in RoI.
+
+
