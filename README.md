@@ -53,6 +53,6 @@ python envi_tool_demo_color_enhancement.py
    - Original and enhance color images show up.
 
 **Video of operation**:
-<video width="1912" height="1072" controls>
-  <source src="asset/color_enhancement_video.mp4)" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/12e5cb87-8d0b-4ebe-bb0c-27d92f1c0c53
+
+
