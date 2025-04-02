@@ -26,12 +26,14 @@ python envi_tool_demo_sample_rois.py
    - Select RoIs. After each selection, type `space` key. To finish selection, type `esc`.
 
 **Seelction of RoIs (bboxes)**:
+
 ![RoI selection](asset/RoIs_selection.png)
 
 4. **Reflectance plot**
    - Averaged reflectances of RoIs shows up.
 
 **Averaged reflectances of RoIs**:
+
 ![RoI selection](asset/RoIs_reflectance.png)
 
 ---
