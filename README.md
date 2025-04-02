@@ -91,16 +91,19 @@ python envi_tool_demo_polygon2csv.py
    - `json_fname`: Polygon annotation file in COCO format. The image is generated from `envi_fname`.
    - `envi_fname`: Reflectance ENVI file.
    - `csv_fname`: Output csv file.
-   - `label_start`: Label of the first annotation. The label increments by 1 following the order of annotations. If `label_start=51`, labels will be 51, 52, 53...
+   - `label_start`: Label of the first annotation. The label increments by 1 following the order of annotations. If `label_start=51`, labels will be 51, 52, 53,...
 
 3. **Display of mean reflectances within polygons**
    - Mean reflectances within polygons show up.
    - Mean reflecctances are saved in `csv_fname`.
-     
+
+[example of csv file](dataset/test.csv)
+In this example, `label_start` is set to `0`, so that labels are 0, 1, 2,...
+
 **Mean reflectance of leaves**:
 ![RoI selection](asset/leaves_reflectance.png)
 
-[example of csv file](dataset/test.csv)
+
 
 
 
