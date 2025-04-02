@@ -73,7 +73,7 @@ This function extracts mean spectra within pre-defined polygons in COCO format.
 1. **Preparing COCO format polygon annotations**
    - Annotate objects by polygons in color image generated from reflectance ENVI file.
    - We assume all the objects belong to identical category (e.g., leaf).
-   - The order of annotations should be recorded because the order of extracted mean reflectance in final product (csv) follows the order of annotations.
+   - To simplify the annotation procedure, the order of annotations should be recorded because the order of extracted mean reflectance in final product (csv) follows the order of annotations.
   
    [example of annotation file](dataset/leaf1_Img-d(s20,g50,49.97ms,350-1100)_20240523_145013_color.json)
    
