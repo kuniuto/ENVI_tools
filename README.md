@@ -96,12 +96,11 @@ python envi_tool_demo_polygon2csv.py
 3. **Display of mean reflectances within polygons**
    - Mean reflectances within polygons show up.
    - Mean reflecctances are saved in `csv_fname`.
+   - 
+**Mean reflectance of leaves**:
+![RoI selection](asset/leaves_reflectance.png)
 
-**Original color image**:
-![RoI selection](asset/original_color.png)
 
-**Enhanced color image**:
-![RoI selection](asset/enhanced_color.png)
 
 
 
