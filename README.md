@@ -88,11 +88,9 @@ python envi_tool_demo_polygon2csv.py
    - `csv_fname`: Output csv file.
    - `label_start`: Label of the first annotation. The label increments by 1 following the order of annotations. If `label_start=51`, labels will be 51, 52, 53...
 
-3. **Selecting RoI**
-   - Select RoI. Type `space` key and, then, type `Enter`.
-
-4. **Display of original and enhance color images**
-   - Original and enhance color images show up.
+3. **Display of mean reflectances within polygons**
+   - Mean reflectances within polygons show up.
+   - Mean reflecctances are saved in `csv_fname`.
 
 **Original color image**:
 ![RoI selection](asset/original_color.png)
