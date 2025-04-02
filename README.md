@@ -76,8 +76,9 @@ This function extracts mean spectra within pre-defined polygons in COCO format.
    - The order of annotations should be recorded because the order of extracted mean reflectance in final product (csv) follows the order of annotations.
   
    [example of annotation file](dataset/leaf1_Img-d(s20,g50,49.97ms,350-1100)_20240523_145013_color.json)
+   [and its image](dataset/leaf1_Img-d(s20,g50,49.97ms,350-1100)_20240523_145013_color.jpg)
 
-2. **Installing necesary dependencies**
+3. **Installing necesary dependencies**
    - Install necessary dependencies by referring to `envi_tool.py` and `envi_tool_demo_polygon2csv.py`.
      
 2. **Running code**
