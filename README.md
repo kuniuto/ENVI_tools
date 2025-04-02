@@ -100,7 +100,7 @@ python envi_tool_demo_polygon2csv.py
 **Mean reflectance of leaves**:
 ![RoI selection](asset/leaves_reflectance.png)
 
-
+[example of csv file](dataset/test.csv)
 
 
 
