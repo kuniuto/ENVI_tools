@@ -7,9 +7,12 @@ Currently, the following tools (functions) are available.
 
 - Sampling reflectance of RoIs.
 - Color enhancement.
+- Mean reflectance calculation within polygons
 
 ---
 ## Sampling reflectance of RoIs. (`sample_rois` function)
+This function extract mean spectra within RoIs after users define the RoIs manually.
+
 1. **Installing necesary dependencies**
    - Install necessary dependencies by referring to `envi_tool.py` and `envi_tool_demo_sample_rois.py`.
      
